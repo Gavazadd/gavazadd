@@ -1,7 +1,7 @@
 <code>🎓 Student: KPI / IO-01</code>
 <code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Backend</code>
-<code>🧻 [Projects](PROJECTS.md)</code><br>
+<code>👷 Speciality: Backend developer</code>
+<code>🧻 [MyProjects](PROJECTS.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code>
 <code>📦 Tech stack: node.js</code><br>
 <code>💬 telegram: [@Ruslan_Uhlianytsia](https://t.me/Ruslan_Uhlianytsia)</code>
