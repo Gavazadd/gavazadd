@@ -1,4 +1,4 @@
 # List of projects
-<code> Lubny_Baraholka: [Git repos](https://github.com/Gavazadd/Project_Lubny_Baraholka)</code><br>
+<code> Lubny_Baraholka: [Git repos](https://github.com/Gavazadd/Project_Lubny_Baraholka) processing...</code><br>
 <code> Shop_Node+Pug: [Git repos](https://github.com/Gavazadd/Project_shop)</code><br>
 <code> Shop_Node+React: [Git repos](https://github.com/Gavazadd/Project_Shop_New)</code>
